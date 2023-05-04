@@ -1,3 +1,10 @@
+This is just a test project. Trying out functional components and useState in  React.
+
+run `npm start` after cloning
+- website opens up
+- add a question and x amount of answers, piechart will be created where you can see the amount of votes for each answer
+- some of the data is mocked on first startup
+- can search from a given backend by giving it queryparams for example: http://localhost:3000?pollID=5, searches a poll with ID 5 from a specified backend
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
